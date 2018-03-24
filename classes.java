@@ -17,7 +17,7 @@ class demo {
 	
 
 }
-class demo1 {
+class demo1 extends demo {
 	this();
 	int x,y;
 	void show()
