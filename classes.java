@@ -8,6 +8,7 @@ class demo {
 	void show()
 	{
 		System.out.println("bye");
+		System.out.println("ha ha ha"); 
 	}
 	static{
 		System.out.println("aj");
