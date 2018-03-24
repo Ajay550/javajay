@@ -33,5 +33,7 @@ class hello{
 		  {
 		    demo a1= new demo();
 			  a1.show();
+		    demo1 b1= new demo1();
+		    b1.show();
 		  }
 }
