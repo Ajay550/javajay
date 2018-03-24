@@ -2,6 +2,9 @@ class demo {
 	demo(){
 		System.out.println("hello ajay");
 	}
+	{
+		System.out.println("added initilize block");
+	}	
 	void show()
 	{
 		System.out.println("bye");
