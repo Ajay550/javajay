@@ -12,16 +12,20 @@ class demo {
 	static{
 		System.out.println("aj");
 	}
+	de
 	
 	
 
 }
 class demo1 {
+	this();
 	int x,y;
 	void show()
 	{
 	   System.out.println(x+" "+y);
-	}	
+	}
+	
+}	
 			      
 
 class hello{
