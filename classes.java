@@ -12,7 +12,7 @@ class demo {
 	static{
 		System.out.println("aj");
 	}
-	de
+	
 	
 	
 
