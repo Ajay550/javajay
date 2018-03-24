@@ -14,14 +14,18 @@ class demo {
 	}
 	
 	
+	
 
 }
 class demo1 {
+	this();
 	int x,y;
 	void show()
 	{
 	   System.out.println(x+" "+y);
-	}	
+	}
+	
+}	
 			      
 
 class hello{
