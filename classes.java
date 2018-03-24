@@ -16,6 +16,13 @@ class demo {
 	
 
 }
+class demo1 {
+	int x,y;
+	void show()
+	{
+	   System.out.println(x+" "+y);
+	}	
+			      
 
 class hello{
           static public void main(String[]args)
